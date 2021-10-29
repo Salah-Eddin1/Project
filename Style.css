@@ -92,8 +92,9 @@ body{
     margin-top: 20px;
     font-size: 20px;
     padding: 10px;
-    font-family: Garamond, serif;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
 }
+
 .img{
     width: 40px;
     border-radius:10px ;
